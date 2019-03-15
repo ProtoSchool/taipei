@@ -1,14 +1,14 @@
-# ProtoSchool [LOCATION]
+# ProtoSchool Taipei
 
-Welcome to the [LOCATION] chapter of [ProtoSchool](https://proto.school)!
+Welcome to the Taipei chapter of [ProtoSchool](https://proto.school)!
 
 We are a group of people passionate about the decentralized web and excited to learn, teach, and share ideas. Everyone is welcome!
 
 ## Organizers
 
 Our chapter's leadership team includes:
-* [NAME] ([@[HANDLE]](https://github.com/[HANDLE]))
-* [NAME] ([@[HANDLE]](https://github.com/[HANDLE]))
+* Jim Lin ([@smpebble](https://github.com/smpebble))
+* Kevin Hoo ([@ccomeon](https://github.com/ccomeon))
 
 ## Code of Conduct
 
