@@ -67,9 +67,13 @@ to agree with and abide by this Code of Conduct.
 ## Enforcement & Reporting Procedure
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting chapter organizer **Jim Lin** at
-**[jim.lin@aimichia.com](mailto:jim.lin@aimichia.com)**. All complaints
-will be reviewed and investigated and will result in a response that is deemed
+reported by contacting chapter organizers:
+
+**Kevin Hoo** at
+**[kevinhoo@gmail.com](mailto:kevinhoo@gmail.com)** or **Jim Lin** at
+**[jim.lin@aimichia.com](mailto:jim.lin@aimichia.com)** 
+
+All complaints will be reviewed and investigated and will result in a response that is deemed
 necessary and appropriate to the circumstances. The chapter organizing team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
 Further details of specific enforcement policies may be posted separately.
