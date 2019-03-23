@@ -1,5 +1,7 @@
 # ProtoSchool Taipei
 
+[![](https://img.shields.io/badge/lang-English-blue.svg)](README.md)  [![](https://img.shields.io/badge/Lang-中文-red.svg)](README-zhTW.md)
+
 Welcome to the Taipei chapter of [ProtoSchool](https://proto.school)!
 
 We are a group of people passionate about the decentralized web and excited to learn, teach, and share ideas. Everyone is welcome!
@@ -8,7 +10,13 @@ We are a group of people passionate about the decentralized web and excited to l
 
 Our chapter's leadership team includes:
 * Jim Lin ([@smpebble](https://github.com/smpebble))
+
+[![](https://img.shields.io/badge/twitter-@smpebble-blue.svg)](https://twitter.com/smpebble)
+
 * Kevin Hoo ([@ccomeon](https://github.com/ccomeon))
+
+[![](https://img.shields.io/badge/twitter-@ccomeon-blue.svg)](https://twitter.com/ccomeon)
+
 
 ## Code of Conduct
 
