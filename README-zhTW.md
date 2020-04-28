@@ -4,6 +4,12 @@
 
 歡迎來到 [ProtoSchool](https://proto.school) 台北分部！我們是一群分散式網路愛好者，希望有相同信念的朋友可以一同分享和學習，不管你是技術專家還是入門菜鳥，我們都歡迎大家彼此交流！
 
+歡迎加入我們的 Line 或 Telegram 群組：
+
+Line: https://line.me/R/ti/g/msPfCH8oMJ
+
+Telegram: https://t.me/ipfs_taiwan
+
 
 ## 團隊
 
